@@ -2,7 +2,9 @@ public class Code_main
 {
 public static void main(String[]args)
 {
+
 system.out.println("waff");
+System.out.println("Hello waff");
 
 }
 }
